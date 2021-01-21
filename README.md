@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aazaf&label=Profile%20views&color=0e75b6&style=flat" alt="aazaf" /> </p>
 
-<h3>I'm a computer programmer with more than 2 years in Back-end and 1 year of involvement front-end advancement for the web-applications and work area applications. I make custom programming, sites, computerization tools(bots) and do the information base combination facilitated locally or on cloud workers.</h3>
+I'm a computer programmer with more than 2 years in Back-end and 1 year of involvement front-end advancement for the web-applications and work area applications. I make custom programming, sites, computerization tools(bots) and do the information base combination facilitated locally or on cloud workers.
 
 - 🌱 I’m currently learning **Hibernate and other frameworks.**
 
